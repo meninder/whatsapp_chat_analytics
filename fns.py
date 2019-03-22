@@ -89,7 +89,7 @@ def create_df(filename, root=''):
     dct['Msg'] = [m.msg for m in msgs]
 
     df = pd.DataFrame(dct)
-    df.to_pickle(root+'temp')
+    #df.to_pickle(root+'temp')
     #print(df.head())
 
     return df
