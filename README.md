@@ -9,7 +9,7 @@ After downloading your [chat history from WhatsApp] (https://faq.whatsapp.com/en
 
 To show how the code works and not use a personal chat of mine, I created a chat file using Tolstoy's War and Peace:
 
-![][https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/count_bar.png]
-![][https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/rolling_count.png]
-![][https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/sentiment_time.png]
-![][https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/wc.png]
+![](https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/count_bar.png)
+![](https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/rolling_count.png)
+![](https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/sentiment_time.png)
+![](https://github.com/meninder/whatsapp_chat_analytics/blob/master/figures/wc.png)
