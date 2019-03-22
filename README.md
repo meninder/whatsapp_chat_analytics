@@ -1,6 +1,6 @@
 # Get Analytic Graphs of Your Whatsapp Chats
 
-After downloading your [chat history from WhatsApp] (https://faq.whatsapp.com/en/wp/22548236), you can run the Jupyter Notebook to get graphs showing:
+After downloading your [chat history from WhatsApp](https://faq.whatsapp.com/en/wp/22548236), you can run the Jupyter Notebook to get graphs showing:
 1. Number of messages by person
 2. Word cloud showing people in chat in proportion to number of messages
 3. Sentiment of the chat through time.
